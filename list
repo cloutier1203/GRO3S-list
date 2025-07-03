@@ -8,11 +8,11 @@
 ||clientservices.googleapis.com^$important
 ||safesearch.googleapis.com^$important
 ||*ogads*^$important
-||*clients4.google.com^$important
-||*client6.google.com^$important
+||clients4.google.com^$important
+||client6.google.com^$important
 ||*googlezip*^$important
 ||cloudsearch.googleapis.com^$important
 ||ogs.google.com^$important
-||*webpkgcache*^$important
+||*webpkgcache.com^$important
 ||m.google.com^$important # not sure on this one
 ||mtalk.google.com^$important
