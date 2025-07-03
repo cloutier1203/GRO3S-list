@@ -2,3 +2,6 @@
 ||safebrowsing.googleapis.com^$important
 ||*firebase*^$important
 ||appsitemsuggest-pa.googleapis.com^$important
+||optimizationguide-pa.googleapis.com^$important
+||clientservices.googleapis.com^$important
+||safesearch.googleapis.com^$important
