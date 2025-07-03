@@ -1,12 +1,7 @@
 # FUCK GOGUARDIAN!!
 ||*goguardian*^$important
 # try to get rid of google junk but keep signing in working (WIP)
-||safebrowsing.googleapis.com^$important
 ||*firebase*^$important
-||appsitemsuggest-pa.googleapis.com^$important
-||optimizationguide-pa.googleapis.com^$important
-||clientservices.googleapis.com^$important
-||safesearch.googleapis.com^$important
 ||*ogads*^$important
 ||clients4.google.com^$important
 ||clients6.google.com^$important
@@ -16,4 +11,4 @@
 ||webpkgcache.com^$important
 ||m.google.com^$important
 ||mtalk.google.com^$important
-||update.googleapis.com^$important
+||googleapis.com^$important
