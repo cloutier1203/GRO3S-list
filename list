@@ -11,4 +11,6 @@
 ||webpkgcache.com^$important
 ||m.google.com^$important
 ||mtalk.google.com^$important
-||googleapis.com^$important
+||googleapis.com^
+@@||optimizationguide-pa.googleapis.com^
+@@||content-autofill.googleapis.com^
