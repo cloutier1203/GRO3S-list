@@ -6,5 +6,5 @@
 ||clientservices.googleapis.com^$important
 ||safesearch.googleapis.com^$important
 ||*ogads*^$important
-||*clients6*^$important
-||*clients4*^$important
+||*clients*google^$important
+||*clients*gstatic^$important
