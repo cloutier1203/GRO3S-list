@@ -2,7 +2,6 @@
 ||*goguardian*^$important
 # try to get rid of google junk but keep signing in working (WIP)
 ||*firebase*^$important
-||*ogads*^$important
 ||clients4.google.com^$important
 ||clients6.google.com^$important
 ||*googlezip*^$important
