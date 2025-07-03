@@ -7,7 +7,6 @@
 ||clients6.google.com^$important
 ||*googlezip*^$important
 ||cloudsearch.googleapis.com^$important
-||ogs.google.com^$important
 ||webpkgcache.com^$important
 ||m.google.com^$important
 ||mtalk.google.com^$important
