@@ -14,5 +14,6 @@
 ||cloudsearch.googleapis.com^$important
 ||ogs.google.com^$important
 ||webpkgcache.com^$important
-||m.google.com^$important # not sure on this one
+||m.google.com^$important
 ||mtalk.google.com^$important
+||update.googleapis.com^$important
