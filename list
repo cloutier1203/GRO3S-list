@@ -13,3 +13,6 @@
 ||*googlezip*^$important
 ||cloudsearch.googleapis.com^$important
 ||ogs.google.com^$important
+||*webpkgcache^$important
+||m.google.com^$important # not sure on this one
+||mtalk.google.com^$important
