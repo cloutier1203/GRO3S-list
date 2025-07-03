@@ -8,3 +8,6 @@
 ||*ogads*^$important
 ||*clients*google^$important
 ||*clients*gstatic^$important
+||*googlezip*^$important
+||cloudsearch.googleapis.com^$important
+||ogs.google.com^$important
