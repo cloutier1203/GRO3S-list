@@ -1,0 +1,8 @@
+# FUCK GOGUARDIAN!!
+0.0.0.0 *goguardian*
+# try to get rid of google blocking junk but keep everything else working (WIP)
+#0.0.0.0 *firebase*
+#0.0.0.0 clients4.google.com
+#0.0.0.0 *googlezip*
+#0.0.0.0 mtalk.google.com
+#0.0.0.0 m.google.com
